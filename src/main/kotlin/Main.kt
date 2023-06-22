@@ -1,19 +1,3 @@
 fun main() {
-
-
-
-
-
-
-
-
-
-
-
-
+    UserLogIn().logInAndSignUp()
 }
-
-
-
-
-
